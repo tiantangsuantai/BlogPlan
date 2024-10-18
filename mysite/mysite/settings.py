@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-# register the app; polls
+# register the app; poll
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'django.contrib.admin',
